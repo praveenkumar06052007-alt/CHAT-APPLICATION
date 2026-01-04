@@ -52,3 +52,4 @@ IN CONCLUSION, THIS PROJECT SUCCESSFULLY DEMONSTRATES THE IMPLEMENTATION OF A RE
 
 #OUTPUT
 
+<img width="676" height="543" alt="Image" src="https://github.com/user-attachments/assets/8835f73b-dc4b-4a15-a7f0-daeba01a7d21" />
